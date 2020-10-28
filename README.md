@@ -2,6 +2,6 @@
 
 <h3> Для запуска:</h3>
 <h4>  1: nmp i / yarn </h4>
-<h4> 2: node  </h4>
+<h4> 2: node sudoku.js  </h4>
   
   
